@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-   <img src="./banner.png" width="100%" />
+   <img src="https://github.com/BetaAE/aurioapp/raw/main/banner.png" width="100%" />
 </p>
 
 <div align="center">
@@ -39,7 +39,7 @@
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/betaae/aurioapp/releases/latest)
+    height="80">](https://github.com/betaae/aurioappprot/releases/latest)
 
 
 ## Contributing
